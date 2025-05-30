@@ -1,0 +1,9 @@
+.profile {
+    display: flex;
+    flex-direction: column; /* foto em cima, nome embaixo */
+    align-items: center;    /* centraliza horizontalmente */
+    padding: 10px;
+    background-color: #fdf6f6;
+    border-radius: 6px;
+  }
+  
